@@ -18,6 +18,8 @@ Model pembanding digunakan untuk mengevaluasi dan mengukur kinerja model utama d
 
 ![image](https://github.com/user-attachments/assets/1b1a45ae-fb02-448c-a69c-91ce3a5f9db4)
 
+![image](https://github.com/user-attachments/assets/591c644c-8a7f-4c99-bf63-2be5dbfd777f)
+
 ![image](https://github.com/user-attachments/assets/a4dddaf0-29a6-495d-bf19-5a9ecb2019a3)
 
 
