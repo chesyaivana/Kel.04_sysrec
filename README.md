@@ -1,4 +1,4 @@
-# Sentimen dari Kolom Reviews Untuk Mengetahui Apakah Ulasan Cenderung Positif, Netral, atau Negatif.
+# Sistem Rekomendasi Tempat Wisata Toba
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/3e825d09-07f9-40ae-8cc8-fd89f768364b" alt="Sentimen dari Kolom Reviews" />
